@@ -1,0 +1,152 @@
+{
+  "novembro-2026-01": {
+    "postId": "6af32cbfa9f33a390a44e25b",
+    "status": "sent",
+    "fingerprint": "a6ff24bd302443395c9539e0d851d1d6250040725892c31fb7fe8f22db129083",
+    "recordedAt": "2026-11-10T14:40:25.197443+00:00",
+    "sentAt": "2026-11-10T14:40:30.923Z",
+    "dueAt": "2026-11-10T14:39:59.432Z",
+    "externalLink": "https://www.instagram.com/p/DfkJH0gFjap/",
+    "verifiedAt": "2026-11-10T14:45:36.847757+00:00"
+  },
+  "novembro-2026-11": {
+    "postId": "6af32ceb42d372a81f5ff020",
+    "status": "scheduled",
+    "fingerprint": "dfec9974f5040d9fba68eb44cb6fbbca725d064d39e5d2d2a75fe0db250838e5",
+    "recordedAt": "2026-11-10T14:40:45.361243+00:00",
+    "sentAt": null,
+    "dueAt": "2026-11-11T16:00:00.000Z",
+    "externalLink": null,
+    "verifiedAt": "2026-11-10T14:45:36.848112+00:00"
+  },
+  "novembro-2026-12": {
+    "postId": "6af32cf4e9e4a87f7b47cf71",
+    "status": "scheduled",
+    "fingerprint": "57c0319743a43f1c9a043ae0148a8bc3165ca0f76626bda17f22a5994e48acf1",
+    "recordedAt": "2026-11-10T14:40:54.221815+00:00",
+    "sentAt": null,
+    "dueAt": "2026-11-13T16:00:00.000Z",
+    "externalLink": null,
+    "verifiedAt": "2026-11-10T14:45:36.848114+00:00"
+  },
+  "novembro-2026-13": {
+    "postId": "6af32cfda80c88d5763d888c",
+    "status": "scheduled",
+    "fingerprint": "995d9406140bb69060e086c4b42db27a2e62d466a5b5babce7e293c417c92e91",
+    "recordedAt": "2026-11-10T14:41:03.454166+00:00",
+    "sentAt": null,
+    "dueAt": "2026-11-15T16:00:00.000Z",
+    "externalLink": null,
+    "verifiedAt": "2026-11-10T14:45:36.848115+00:00"
+  },
+  "novembro-2026-14": {
+    "postId": "6af32d082d2fdb3b7ddfcd08",
+    "status": "scheduled",
+    "fingerprint": "52af6b384863f5e39239b3619305bb23f854bb0bc9fd4e34848048c3b868bf93",
+    "recordedAt": "2026-11-10T14:41:14.504325+00:00",
+    "sentAt": null,
+    "dueAt": "2026-11-17T16:00:00.000Z",
+    "externalLink": null,
+    "verifiedAt": "2026-11-10T14:45:36.848116+00:00"
+  },
+  "novembro-2026-15": {
+    "postId": "6af32d1242d372a81f5ffab0",
+    "status": "scheduled",
+    "fingerprint": "f5b753f69a07672620875d5431a3bc4355e9fcb3cd8a5a10772c220c488a9cf0",
+    "recordedAt": "2026-11-10T14:41:24.742446+00:00",
+    "sentAt": null,
+    "dueAt": "2026-11-19T16:00:00.000Z",
+    "externalLink": null,
+    "verifiedAt": "2026-11-10T14:45:36.848118+00:00"
+  },
+  "novembro-2026-02": {
+    "postId": "6af32d2e825741bba83b7238",
+    "status": "sent",
+    "fingerprint": "505cf05d7e84fcefbece00b1d01367670005e84f6907ff441e0759dc2d4a0f80",
+    "recordedAt": "2026-11-10T14:42:02.374787+00:00",
+    "sentAt": "2026-11-10T14:42:22.169Z",
+    "dueAt": "2026-11-10T14:41:50.401Z",
+    "externalLink": "https://www.instagram.com/p/DfkJVcOliiE/",
+    "verifiedAt": "2026-11-10T14:45:36.848098+00:00"
+  },
+  "novembro-2026-03": {
+    "postId": "6af32d412d2fdb3b7ddfe03a",
+    "status": "sent",
+    "fingerprint": "8bbb2fe4f2c4157db85bfaed0765f1b0a43be5bfe97812fa67e1767c3a45d049",
+    "recordedAt": "2026-11-10T14:42:21.200961+00:00",
+    "sentAt": "2026-11-10T14:42:46.582Z",
+    "dueAt": "2026-11-10T14:42:09.530Z",
+    "externalLink": "https://www.instagram.com/p/DfkJYPiIAGd/",
+    "verifiedAt": "2026-11-10T14:45:36.848101+00:00"
+  },
+  "novembro-2026-04": {
+    "postId": "6af32d54a80c88d5763da248",
+    "status": "sent",
+    "fingerprint": "02cbe415e344e9d49cc1f7aff3f3d7a3999d9d43a0b3a9fe6919c99f6ef8bb26",
+    "recordedAt": "2026-11-10T14:42:40.271680+00:00",
+    "sentAt": "2026-11-10T14:43:03.634Z",
+    "dueAt": "2026-11-10T14:42:28.535Z",
+    "externalLink": "https://www.instagram.com/p/DfkJaRUllm0/",
+    "verifiedAt": "2026-11-10T14:45:36.848102+00:00"
+  },
+  "novembro-2026-05": {
+    "postId": "6af32d67a9f33a390a452262",
+    "status": "sent",
+    "fingerprint": "b5f092c61f9687ecb036fde6c92cf609bda12bd357af110716fd55353b7ced56",
+    "recordedAt": "2026-11-10T14:42:59.086125+00:00",
+    "sentAt": "2026-11-10T14:43:23.436Z",
+    "dueAt": "2026-11-10T14:42:47.547Z",
+    "externalLink": "https://www.instagram.com/p/DfkJcmioKbt/",
+    "verifiedAt": "2026-11-10T14:45:36.848104+00:00"
+  },
+  "novembro-2026-06": {
+    "postId": "6af32d7a825741bba83b85e1",
+    "status": "sent",
+    "fingerprint": "e36df7c1d8a1fdf546e9209193dd87354b902043721e77f39f18948f651eedc4",
+    "recordedAt": "2026-11-10T14:43:17.553450+00:00",
+    "sentAt": "2026-11-10T14:43:37.246Z",
+    "dueAt": "2026-11-10T14:43:06.054Z",
+    "externalLink": "https://www.instagram.com/p/DfkJej1luVE/",
+    "verifiedAt": "2026-11-10T14:45:36.848105+00:00"
+  },
+  "novembro-2026-07": {
+    "postId": "6af32d8ee9e4a87f7b480a65",
+    "status": "sent",
+    "fingerprint": "a76b1ea26ab05990763c407ac739a905ccceb88e3d22d46eb2a56d60a68fad1d",
+    "recordedAt": "2026-11-10T14:43:37.741112+00:00",
+    "sentAt": "2026-11-10T14:43:57.238Z",
+    "dueAt": "2026-11-10T14:43:26.049Z",
+    "externalLink": "https://www.instagram.com/p/DfkJhCZkW1t/",
+    "verifiedAt": "2026-11-10T14:45:36.848107+00:00"
+  },
+  "novembro-2026-08": {
+    "postId": "6af32da0e9e4a87f7b480f05",
+    "status": "sent",
+    "fingerprint": "79babcdc0b1581aad19acaacfae7e9f560dfe09408a8cc47d29e9259c1b37d92",
+    "recordedAt": "2026-11-10T14:43:56.391845+00:00",
+    "sentAt": "2026-11-10T14:44:21.732Z",
+    "dueAt": "2026-11-10T14:43:44.829Z",
+    "externalLink": "https://www.instagram.com/p/DfkJjyAFVd0/",
+    "verifiedAt": "2026-11-10T14:45:36.848108+00:00"
+  },
+  "novembro-2026-09": {
+    "postId": "6af32db342d372a81f602d89",
+    "status": "sent",
+    "fingerprint": "63308fd25c0b436c4d138f73f5a5768832d88d225e77ef837412e3f9a03d8a1b",
+    "recordedAt": "2026-11-10T14:44:15.067410+00:00",
+    "sentAt": "2026-11-10T14:44:33.442Z",
+    "dueAt": "2026-11-10T14:44:03.599Z",
+    "externalLink": "https://www.instagram.com/p/DfkJlZmkVq6/",
+    "verifiedAt": "2026-11-10T14:45:36.848109+00:00"
+  },
+  "novembro-2026-10": {
+    "postId": "6af32dc7e9e4a87f7b481bfa",
+    "status": "sent",
+    "fingerprint": "b07e83c0a392d8fdd2899e7613c30649b0d1b1a107a7c6cc478020a9b6ea5a99",
+    "recordedAt": "2026-11-10T14:44:36.635457+00:00",
+    "sentAt": "2026-11-10T14:44:58.943Z",
+    "dueAt": "2026-11-10T14:44:23.113Z",
+    "externalLink": "https://www.instagram.com/p/DfkJoabln1w/",
+    "verifiedAt": "2026-11-10T14:45:36.848111+00:00"
+  }
+}
